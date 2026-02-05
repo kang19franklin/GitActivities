@@ -8,7 +8,7 @@ To begin, create a new branch off of master.  You can name the branch whatever y
 1. Create a branch with a name something like merge-conflict-activity-one  
 
     ```
-    git checkout -b merge-conflict-activity-1
+    git checko.  ut -b merge. -c. nfl ic t-ac tivity-1
     ```  
 
     In the new branch, modify one of the existing files.  Then add and commit the changes.

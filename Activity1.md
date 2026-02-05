@@ -60,7 +60,7 @@ The base repository is where you forked, and your repository is where you will d
 
     It doesn't matter what you do here, just add a file or modify an existing file, then save it.
 
-    Once the file is saved, make sure you have the changes ready with a git status command: 
+    Once the file is saved, make sure you have the changes ready with a git status command:  
 
     ```  
     git status
